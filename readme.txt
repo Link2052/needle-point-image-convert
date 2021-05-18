@@ -4,6 +4,7 @@ Required Modules:
 PIL
 Tkinter
 Scipy
+webcolors
 # ====================================== #
 Should run as-is
 
